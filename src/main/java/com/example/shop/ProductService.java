@@ -7,9 +7,9 @@ public class ProductService {
     List<Product> products = new ArrayList<>();
 
     public ProductService() {
-        products.add(new Product(1, "Кампуктер", 1000.0));
-        products.add(new Product(2, "Телефончик", 800.0));
-        products.add(new Product(3, "Наушнички", 580.0));
+        products.add(new Product(1, "А", 100.0));
+        products.add(new Product(2, "Б", 80.0));
+        products.add(new Product(3, "В", 5.0));
 
     }
 
